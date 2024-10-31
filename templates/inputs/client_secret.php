@@ -1,0 +1,1 @@
+<input name="client_secret" type="text" id="client_secret" value="<?php echo get_option( 'client_secret' ) ?>" class="regular-text" />

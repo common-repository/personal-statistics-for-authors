@@ -1,0 +1,1 @@
+<input name="api_key" type="text" id="api_key" value="<?php echo get_option( 'api_key' ) ?>" class="regular-text" />

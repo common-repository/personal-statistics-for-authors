@@ -1,0 +1,2 @@
+<input name="profile_id" type="text" id="profile_id" value="<?php echo get_option( 'profile_id' ) ?>" /><br />
+<span class="description"><?php _e( 'If you do not know your ID profile, open the Google Analytics site, select the site you want to monitor. 8 digits after the "p" at the end of the url of your browser is your profile ID.', PLUGIN_SLUG ); ?></span>

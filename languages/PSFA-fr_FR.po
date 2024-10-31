@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Personal Statistics for Authors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-05 15:38+0100\n"
+"PO-Revision-Date: 2013-06-05 15:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Agence Peexeo <hello@peexeo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../personal-statistics-for-authors.php:546
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../personal-statistics-for-authors.php:569
+msgid "Google Console API"
+msgstr "Google Console API"
+
+#: ../personal-statistics-for-authors.php:596
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../personal-statistics-for-authors.php:621
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: ../personal-statistics-for-authors.php:680
+msgid "Tape your google console api datas"
+msgstr "Saisir vos données <a href=\"https://code.google.com/apis/console/\" target=\"_blank\">Google Console API</a> :"
+
+#: ../personal-statistics-for-authors.php:689
+msgid "Tape your google api access datas"
+msgstr "Saisir vos données <a href=\"http://www.google.fr/intl/fr/analytics/\" target=\"_blank\">Google Analytics</a> :"
+
+#: ../personal-statistics-for-authors.php:766
+msgid "Your activity since"
+msgstr "Votre activité depuis le"
+
+#: ../personal-statistics-for-authors.php:768
+msgid "No activity"
+msgstr "Aucune activité pour cet utilisateur pour le moment"
+
+#: ../personal-statistics-for-authors.php:969
+#: ../personal-statistics-for-authors.php:970
+msgid "My Dashboard"
+msgstr "Mes statistiques"
+
+#: ../personal-statistics-for-authors.php:981
+#: ../personal-statistics-for-authors.php:982
+msgid "Averages"
+msgstr "Moyennes"
+
+#: ../personal-statistics-for-authors.php:991
+#: ../personal-statistics-for-authors.php:992
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../personal-statistics-for-authors.php:1001
+#: ../personal-statistics-for-authors.php:1002
+msgid "Help"
+msgstr "Aide"
+
+#: ../templates/authors_template.php:18
+#: ../templates/dashboard_widget_template.php:10
+#: ../templates/my_dashboard_template.php:17
+msgid "Posts"
+msgstr "Articles"
+
+#: ../templates/authors_template.php:19
+#: ../templates/averages_template.php:21
+#: ../templates/averages_template.php:80
+#: ../templates/dashboard_widget_template.php:30
+#: ../templates/my_dashboard_template.php:21
+#: ../templates/single_template.php:24
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../templates/authors_template.php:20
+#: ../templates/averages_template.php:29
+#: ../templates/averages_template.php:51
+#: ../templates/dashboard_widget_template.php:18
+#: ../templates/my_dashboard_template.php:29
+#: ../templates/my_dashboard_template.php:55
+#: ../templates/single_template.php:32
+#: ../templates/single_template.php:52
+#: ../templates/single_template.php:73
+#: ../templates/single_template.php:94
+msgid "Visits"
+msgstr "Visites"
+
+#: ../templates/authors_template.php:21
+#: ../templates/my_dashboard_template.php:57
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../templates/authors_template.php:22
+#: ../templates/my_dashboard_template.php:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../templates/authors_template.php:39
+#: ../templates/authors_template.php:46
+#: ../templates/averages_template.php:69
+#: ../templates/averages_template.php:98
+#: ../templates/averages_template.php:104
+#: ../templates/single_template.php:64
+#: ../templates/single_template.php:85
+#: ../templates/single_template.php:106
+msgid "No datas"
+msgstr "Pas de données pour le moment."
+
+#: ../templates/averages_template.php:6
+msgid "Average"
+msgstr "Moyenne"
+
+#: ../templates/averages_template.php:13
+#: ../templates/my_dashboard_template.php:13
+#: ../templates/single_template.php:16
+msgid "General statistics"
+msgstr "Statistiques générales"
+
+#: ../templates/averages_template.php:17
+msgid "Posts by authors"
+msgstr "Articles par personne"
+
+#: ../templates/averages_template.php:21
+#: ../templates/dashboard_widget_template.php:30
+#: ../templates/my_dashboard_template.php:21
+#: ../templates/single_template.php:24
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../templates/averages_template.php:25
+#: ../templates/my_dashboard_template.php:56
+#: ../templates/single_template.php:28
+msgid "Average time"
+msgstr "Temps moyen"
+
+#: ../templates/averages_template.php:29
+#: ../templates/dashboard_widget_template.php:18
+#: ../templates/my_dashboard_template.php:29
+#: ../templates/single_template.php:32
+msgid "Visit"
+msgstr "Visite"
+
+#: ../templates/averages_template.php:33
+#: ../templates/dashboard_widget_template.php:22
+#: ../templates/my_dashboard_template.php:33
+#: ../templates/single_template.php:36
+msgid "Visits from mobile device"
+msgstr "Visites depuis un mobile"
+
+#: ../templates/averages_template.php:33
+#: ../templates/dashboard_widget_template.php:22
+#: ../templates/my_dashboard_template.php:33
+#: ../templates/single_template.php:36
+msgid "Visit from mobile device"
+msgstr "Visite depuis un mobile"
+
+#: ../templates/averages_template.php:37
+#: ../templates/dashboard_widget_template.php:34
+#: ../templates/my_dashboard_template.php:42
+#: ../templates/single_template.php:40
+msgid "Facebook shares"
+msgstr "Partages Facebook"
+
+#: ../templates/averages_template.php:37
+#: ../templates/dashboard_widget_template.php:34
+#: ../templates/my_dashboard_template.php:42
+#: ../templates/single_template.php:40
+msgid "Facebook share"
+msgstr "Partage Facebook"
+
+#: ../templates/averages_template.php:41
+#: ../templates/dashboard_widget_template.php:38
+#: ../templates/my_dashboard_template.php:46
+#: ../templates/single_template.php:44
+msgid "Twitter shares"
+msgstr "Partages Twitter"
+
+#: ../templates/averages_template.php:41
+#: ../templates/dashboard_widget_template.php:38
+#: ../templates/my_dashboard_template.php:46
+#: ../templates/single_template.php:44
+msgid "Twitter share"
+msgstr "Partage Twitter"
+
+#: ../templates/averages_template.php:44
+msgid "More read posts"
+msgstr "Articles les plus lus"
+
+#: ../templates/averages_template.php:48
+#: ../templates/averages_template.php:77
+#: ../templates/my_dashboard_template.php:53
+msgid "Title"
+msgstr "Titre"
+
+#: ../templates/averages_template.php:49
+#: ../templates/averages_template.php:78
+#: ../templates/my_dashboard_template.php:54
+msgid "Date"
+msgstr "Date"
+
+#: ../templates/averages_template.php:50
+#: ../templates/averages_template.php:79
+msgid "Author name"
+msgstr "Nom de l'auteur"
+
+#: ../templates/averages_template.php:73
+msgid "More commented posts"
+msgstr "Articles les plus commentés"
+
+#: ../templates/dashboard_widget_template.php:10
+#: ../templates/my_dashboard_template.php:17
+msgid "Post"
+msgstr "Article"
+
+#: ../templates/dashboard_widget_template.php:14
+#: ../templates/my_dashboard_template.php:25
+msgid "Average time on post"
+msgstr "Temps moyen sur un article"
+
+#: ../templates/dashboard_widget_template.php:26
+#: ../templates/my_dashboard_template.php:37
+msgid "Bounce rate"
+msgstr "Taux de rebond"
+
+#: ../templates/dashboard_widget_template.php:41
+msgid "Activity evolution"
+msgstr "Évolution de mon activité"
+
+#: ../templates/dashboard_widget_template.php:44
+msgid "More..."
+msgstr "Pour aller plus loin..."
+
+#: ../templates/dashboard_widget_template.php:49
+#: ../templates/my_dashboard_template.php:78
+msgid "No posts found"
+msgstr "Aucun article récupéré pour cet utilisateur pour le moment"
+
+#: ../templates/help_template.php:5
+msgid "First, to configure the plugin, go to Google Console API and accept the terms"
+msgstr "Pour configurer le plugin, rendez-vous sur <a href=\"https://code.google.com/apis/console/\" target=\"_blank\">Google Console API</a> et veuillez accepter les conditions d'utilisation"
+
+#: ../templates/help_template.php:9
+msgid "Go to \"Services\" section and activate \"Analytics API\""
+msgstr "Dans la section \"Services\", activez \"Analytics API\""
+
+#: ../templates/help_template.php:13
+msgid "Go to \"API Access\" section and click on \"Create an OAuth 2.0 client ID...\""
+msgstr "Allez dans la section \"API Access\" et cliquez sur \"Create an OAuth 2.0 client ID...\""
+
+#: ../templates/help_template.php:17
+msgid "Fill the \"Product name\" field and click \"Next\""
+msgstr "Remplissez le champ \"Product name\" et cliquez sur \"Next\""
+
+#: ../templates/help_template.php:21
+msgid "Choose \"Web application\", select \"http://\" and type your website url"
+msgstr "Choisissez \"Web application\", sélectionnez \"http://\" et tapez l'url de votre site Web"
+
+#: ../templates/help_template.php:25
+msgid "Click on \"more options\" and add \"/wp-admin/options-general.php?page=PSFA\" at the end of your website url for the \"Authorized Redirect URIs\" field. Next click on \"Create client ID\""
+msgstr "Cliquez sur \"more options\" et ajoutez \"/wp-admin/options-general.php?page=PSFA\" à la fin de l'url de votre site Web pour le champ \"Authorized Redirect URIs\". Ensuite, cliquez sur \"Create client ID\""
+
+#: ../templates/help_template.php:29
+msgid "Finaly, open the Google Analytics site and select the account you want to monitor. The 8 digits after the \"p\" at the end the url of your browser is your profile ID"
+msgstr "Si vous ne connaissez pas votre Profil ID, ouvrez le site Google Analytics, puis sélectionnez le site que vous souhaitez surveiller. Les 8 chiffres après le \"p\" à la fin de l'url de votre navigateur est votre profil ID."
+
+#: ../templates/my_dashboard_template.php:49
+msgid "My posts"
+msgstr "Mes articles"
+
+#: ../templates/notice.php:1
+msgid "Please configure Personal Statistics for Authors"
+msgstr "Veuillez remplir les réglages de \"Personal Statistics for Authors\""
+
+#: ../templates/notice.php:1
+msgid "here"
+msgstr "ici"
+
+#: ../templates/promo.php:4
+msgid "Plugin build by Peexeo"
+msgstr "Plugin réalisé par l'agence Peexeo"
+
+#: ../templates/promo.php:5
+msgid "Peexeo is a Web agency (Lyon, France), specializing in websites and mobile applications development, SEO and web marketing. We also offer training on WordPress development and SEO. We build most of our websites on the WordPress CMS and occasionally develop plugins. Check our references:"
+msgstr "Agence Web située à Lyon, Peexeo est une entreprise spécialisée dans la création de sites Internet et d'applications mobiles, le référencement et le webmarketing. Nous proposons également des formations sur le développement WordPress et le référencement. Nous intégrons la plupart de nos sites sur le CMS WordPress et développons ponctuellement des plugins. Consultez nos références :"
+
+#: ../templates/settings_template.php:3
+msgid "Personal Statistics for Authors options"
+msgstr "Options de Personal Statistics for Authors"
+
+#: ../templates/settings_template.php:15
+msgid "Click the button below to access the information from your Google Account and use:"
+msgstr "Cliquez sur le bouton ci-dessous pour accéder aux informations issues de votre compte Google et les utiliser :"
+
+#: ../templates/settings_template.php:16
+msgid "Connect Me !"
+msgstr "Connexion Google Analytics"
+
+#: ../templates/settings_template.php:18
+msgid "You can disconnect your Google account by clicking the button below:"
+msgstr "À tout moment, vous pouvez déconnecter votre compte Google en cliquant sur le bouton ci-dessous. <strong>Attention :</strong> la récupération des données ne sera plus activée."
+
+#: ../templates/settings_template.php:19
+msgid "Logout"
+msgstr "Déconnexion Google Analyics"
+
+#: ../templates/single_template.php:7
+msgid "Latest update:"
+msgstr "Dernière mise à jour :"
+
+#: ../templates/single_template.php:8
+msgid "None"
+msgstr "Aucune"
+
+#: ../templates/single_template.php:12
+#: ../templates/single_template.php:114
+msgid "Back"
+msgstr "Retour"
+
+#: ../templates/single_template.php:20
+msgid "Created"
+msgstr "Date de création"
+
+#: ../templates/single_template.php:47
+#: ../templates/single_template.php:51
+msgid "Keywords"
+msgstr "Mots clés"
+
+#: ../templates/single_template.php:68
+msgid "Traffic sources"
+msgstr "Source de traffic"
+
+#: ../templates/single_template.php:72
+msgid "Referring site"
+msgstr "Site"
+
+#: ../templates/single_template.php:89
+msgid "Destinations"
+msgstr "Destinations"
+
+#: ../templates/single_template.php:93
+msgid "Path"
+msgstr "Site"
+
+#: ../templates/single_template.php:110
+msgid "Evolution"
+msgstr "Évolution"
+
+#: ../templates/inputs/profile_id.php:2
+msgid "If you do not know your ID profile, open the Google Analytics site, select the site you want to monitor. 8 digits after the \"p\" at the end of the url of your browser is your profile ID."
+msgstr "Si vous ne connaissez pas votre Profil ID, ouvrez le site <a href=\"http://www.google.fr/intl/fr/analytics/\" target=\"_blank\">Google Analytics</a>, puis sélectionnez le site que vous souhaitez surveiller. Les 8 chiffres après le \"p\" à la fin de l'url de votre navigateur est votre profil ID."
+
+#~ msgid "Every 5 Minutes"
+#~ msgstr "Tous les 5 minutes"
+
+#~ msgid "choose your correct timezone"
+#~ msgstr "Choisissez une ville dans le même fuseau horaire que le vôtre :"
+
+#~ msgid "Timezone"
+#~ msgstr "Fuseau horaire"
+
+#, fuzzy
+#~ msgid "timezone"
+#~ msgstr "Fuseau horaire"

@@ -1,0 +1,146 @@
+.cols {
+	overflow: hidden;
+}
+
+.cols3 .col {
+	width: 28.41%;
+}
+
+.cols4 .col {
+	width: 20%;
+}
+
+.col {
+	background-color: white;
+	border: solid 1px #DFDFDF;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	float: left;
+	margin: 0 2% 2% 0;
+	height: 60px;
+	padding: 1.5%;
+	text-align: center;
+}
+
+.col.no-margin {
+	margin-right: 0;
+}
+
+.col p {
+	margin: 1em 0 0 0;
+}
+
+.col p:first-child {
+	color: #21759B;
+	font-size: 18px;
+	font-family: Georgia, serif;
+	margin: 0;
+	line-height: 1;
+}
+
+.top_back {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.bottom_back {
+	margin-top: 20px;
+}
+
+table .sorting span {
+	background: url(../images/sort.gif) center right no-repeat;
+	cursor: pointer;
+	display: block;
+}
+
+table .sorting_asc span {
+	background: url(../images/asc.gif) center right no-repeat;
+	cursor: pointer;
+	display: block;
+}
+
+table .sorting_desc span {
+	background: url(../images/desc.gif) center right no-repeat;
+	cursor: pointer;
+	display: block;
+}
+
+.dataTables_length {
+	width: 40%;
+	float: left;
+	margin-bottom: 5px;
+}
+
+.dataTables_filter {
+	width: 50%;
+	text-align: right;
+	float: right;
+	margin-bottom: 5px;
+}
+
+.dataTables_info {
+	float: left;
+	margin-top: 5px;
+	width: 50%;
+}
+
+.dataTables_paginate {
+	float: right;
+	margin-top: 5px;
+	text-align: right;
+	width: 50%;
+}
+
+.dataTables_paginate a {
+	margin-left: 5px;
+}
+
+.message {
+	background-color: #FFFFE0;
+	border: solid 1px #E6DB55;
+	margin: 5px 0 15px;
+	padding: 0 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.promo {
+	overflow: hidden;
+	padding: 15px;
+	border: solid 1px #DFDFDF;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin: 20px 0;
+	background-color: #EEE;
+}
+
+.promo h3 {
+	margin-top: 0;
+}
+
+.promo .logo {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 15px;
+}
+
+.promo .desc {
+	float: left;
+	width: 80%;
+}
+
+@media only screen and (max-width : 1240px) {
+	.promo .desc {
+		width: 76%;
+	}	
+}
+
+@media only screen and (max-width : 786px) {
+	.promo .desc {
+		width: 67%;
+	}	
+}

@@ -1,0 +1,1 @@
+<div class="error"><p><?php _e( 'Please configure Personal Statistics for Authors', PLUGIN_SLUG); ?> <a href="options-general.php?page=PSFA"><?php _e( 'here', PLUGIN_SLUG ); ?></a></p></div>

@@ -1,0 +1,1 @@
+<input name="client_id" type="text" id="client_id" value="<?php echo get_option( 'client_id' ) ?>" class="regular-text" />
